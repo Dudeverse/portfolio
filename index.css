@@ -1,0 +1,82 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.pfp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px ;
+}
+
+.pfp img {
+    border-radius: 50%;
+}
+
+
+.ul{
+    list-style-type: none;
+
+}
+
+
+.about {
+    border: 1px solid black;
+}
+
+.skills {
+    border: 1px solid black;
+}
+.projects{
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.project-heading {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.project-box {
+    display: flex;
+    padding: 5px;
+}
+
+.project-list{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
+
+.project-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-container img{
+    border: 1px solid black;
+    border-radius: 2px;
+}
+
+
+.projects ul{
+    list-style-type: none;
+    padding: 0;
+}
+li {
+    text-align: center;
+}
+.contact {
+    border: 1px solid black;
+}
+
+.footer {
+    border: 1px solid black;
+}
