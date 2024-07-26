@@ -24,11 +24,11 @@
 
 
 .about {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 }
 
 .skills {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 }
 .projects{
     
@@ -74,9 +74,9 @@ li {
     text-align: center;
 }
 .contact {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 }
 
 .footer {
-    border: 1px solid black;
+    /*border: 1px solid black;*/
 }
